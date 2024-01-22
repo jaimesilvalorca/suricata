@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #e83e8c !important;
+}
+
+.logo-suricata{
+    width: 132px;
+    height: 53px;
+}
+
+.text-h1{
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #707070;
+    text-align: center;
+
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.list-group-item{
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.card-body a{
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media (max-width: 575.98px) {
+    .text-h1{
+        font-size: 35px;
+    }
+
+ }
