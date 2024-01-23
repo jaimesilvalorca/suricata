@@ -86,6 +86,20 @@ footer img{
 
 }
 
+@media (max-width: 767.98px) { 
+
+    .row .col{
+        display: flex !important;
+        justify-content: center !important;
+    }
+    
+    .card{
+        margin-bottom: 50.24px;
+    }
+
+
+}
+
 
 @media (max-width: 575.98px) {
     .text-h1{
