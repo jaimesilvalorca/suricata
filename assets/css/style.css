@@ -22,6 +22,8 @@
     font-weight: 700;
     color: #707070;
     text-align: center;
+    margin-top: 64px;
+    margin-bottom: 77px;
 
 }
 
@@ -43,9 +45,62 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.row-card{
+    margin-top: 64.24px;
+    margin-bottom: 118.24px;
+}
+
+.now-accept{
+    background-color: #17A2B8;
+    height: 170px;
+}
+
+.h2-text{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.now-accept h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+
+.fa-brands {
+    color:white;
+    font-size: 80px;
+}
+
+
+footer{
+    background-color: #e83e8c;
+    height: 184px;
+}
+
+footer img{
+    height: 100.45px;
+    width: 53.32px;
+
+}
+
+
 @media (max-width: 575.98px) {
     .text-h1{
         font-size: 35px;
+        margin-top: 41px;
+        margin-bottom: 29px;
     }
+
+    .card{
+        margin-bottom: 50.24px;
+    }
+    
+
+    
+
+
 
  }
