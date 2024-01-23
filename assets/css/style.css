@@ -94,8 +94,29 @@ footer img{
         margin-bottom: 29px;
     }
 
+    .h2-text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .nuestros-productos{
+        margin-right: 61.5px;
+        margin-left: 61.5px;
+    }
+
     .card{
         margin-bottom: 50.24px;
+    }
+
+    .row-card{
+        margin-top: 29px;
+        margin-bottom: 49.24px;
+    }
+
+    .row .col{
+        display: flex !important;
+        justify-content: center !important;
     }
     
 
